@@ -687,7 +687,7 @@ img {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 12px;
-    line-height: 1.77;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
     margin-bottom: 4px;
@@ -716,12 +716,10 @@ img {
 
 .input-wraper {
     position: relative;
-    margin-bottom: 8px;
 }
 
 .icon-wraper {
     position: absolute;
-    fill: #2E2F42;
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
@@ -741,7 +739,7 @@ img {
     font-size: 12px;
     font-weight: 400;
     line-height: 14px;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     text-align: left;
     margin-bottom: 4px;
 }
